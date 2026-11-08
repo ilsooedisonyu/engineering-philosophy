@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/social-previews/engineering-philosophy.jpg" width="100%" alt="Three globes joined by copper connection paths: the Three GOE Globes artwork of Yu Genius Lab">
+  <img src="./assets/social-previews/engineering-philosophy.jpg"
+       width="100%"
+       alt="Engineering Philosophy Repository">
 </p>
 
 # Engineering Philosophy™
